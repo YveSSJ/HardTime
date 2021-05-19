@@ -1,0 +1,12 @@
+C:\Users\myths\Source\Repos\HardTime.Domain\bin\Debug\net5.0\HardTime.Domain.deps.json
+C:\Users\myths\Source\Repos\HardTime.Domain\bin\Debug\net5.0\HardTime.Domain.dll
+C:\Users\myths\Source\Repos\HardTime.Domain\bin\Debug\net5.0\ref\HardTime.Domain.dll
+C:\Users\myths\Source\Repos\HardTime.Domain\bin\Debug\net5.0\HardTime.Domain.pdb
+C:\Users\myths\Source\Repos\HardTime.Domain\obj\Debug\net5.0\HardTime.Domain.csprojAssemblyReference.cache
+C:\Users\myths\Source\Repos\HardTime.Domain\obj\Debug\net5.0\HardTime.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\myths\Source\Repos\HardTime.Domain\obj\Debug\net5.0\HardTime.Domain.AssemblyInfoInputs.cache
+C:\Users\myths\Source\Repos\HardTime.Domain\obj\Debug\net5.0\HardTime.Domain.AssemblyInfo.cs
+C:\Users\myths\Source\Repos\HardTime.Domain\obj\Debug\net5.0\HardTime.Domain.csproj.CoreCompileInputs.cache
+C:\Users\myths\Source\Repos\HardTime.Domain\obj\Debug\net5.0\HardTime.Domain.dll
+C:\Users\myths\Source\Repos\HardTime.Domain\obj\Debug\net5.0\ref\HardTime.Domain.dll
+C:\Users\myths\Source\Repos\HardTime.Domain\obj\Debug\net5.0\HardTime.Domain.pdb

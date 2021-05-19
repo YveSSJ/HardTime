@@ -1,0 +1,15 @@
+C:\Users\myths\Source\Repos\HardTime.DB\bin\Debug\net5.0\HardTime.DB.deps.json
+C:\Users\myths\Source\Repos\HardTime.DB\bin\Debug\net5.0\HardTime.DB.dll
+C:\Users\myths\Source\Repos\HardTime.DB\bin\Debug\net5.0\ref\HardTime.DB.dll
+C:\Users\myths\Source\Repos\HardTime.DB\bin\Debug\net5.0\HardTime.DB.pdb
+C:\Users\myths\Source\Repos\HardTime.DB\obj\Debug\net5.0\HardTime.DB.csprojAssemblyReference.cache
+C:\Users\myths\Source\Repos\HardTime.DB\obj\Debug\net5.0\HardTime.DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\myths\Source\Repos\HardTime.DB\obj\Debug\net5.0\HardTime.DB.AssemblyInfoInputs.cache
+C:\Users\myths\Source\Repos\HardTime.DB\obj\Debug\net5.0\HardTime.DB.AssemblyInfo.cs
+C:\Users\myths\Source\Repos\HardTime.DB\obj\Debug\net5.0\HardTime.DB.csproj.CoreCompileInputs.cache
+C:\Users\myths\Source\Repos\HardTime.DB\obj\Debug\net5.0\HardTime.DB.dll
+C:\Users\myths\Source\Repos\HardTime.DB\obj\Debug\net5.0\ref\HardTime.DB.dll
+C:\Users\myths\Source\Repos\HardTime.DB\obj\Debug\net5.0\HardTime.DB.pdb
+C:\Users\myths\Source\Repos\HardTime.DB\bin\Debug\net5.0\HardTime.Domain.dll
+C:\Users\myths\Source\Repos\HardTime.DB\bin\Debug\net5.0\HardTime.Domain.pdb
+C:\Users\myths\Source\Repos\HardTime.DB\obj\Debug\net5.0\HardTime.DB.csproj.CopyComplete
